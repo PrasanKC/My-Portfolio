@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  /*background-color: #272727;*/
+  background-color: #222222;
+}
+
+section {
+  min-height: 100vh;
+  padding: 6px;
+}
