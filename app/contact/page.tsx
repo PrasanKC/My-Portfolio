@@ -118,7 +118,7 @@ export default function Contact() {
           <div>
             <p className="text-gray-400 text-md">Prefer email?</p>
             <p className="text-green-500 text-lg cursor-pointer">
-              prasankc2000@gmail.com
+              <a href="mailto:prasankc2000@gmail.com">prasankc2000@gmail.com</a>
             </p>
           </div>
         </div>
